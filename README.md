@@ -4,10 +4,13 @@
 
 
 Example:
+
 //pg stygian - will purchase 'Stygian Pact phantom gem'
+
 //pg odin - will also purchase 'Stygian Pact phantom gem'
 
 //pg maiden - will purchase "Maiden phantom gem"
+
 //pg lilith - will purchase "Maiden phantom gem"
 
 The rest of the shortcuts may be found in the shortcuts variable inside the lua.
