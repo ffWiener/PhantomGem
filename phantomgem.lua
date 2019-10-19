@@ -177,7 +177,6 @@ windower.register_event('addon command', function(...)
 end)
 
 function HaveKI(ki)
-    print(ki)
     local KIs = windower.ffxi.get_key_items()
     for _,v in ipairs(KIs) do
         if v == ki then return true end
